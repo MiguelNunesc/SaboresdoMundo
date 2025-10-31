@@ -11,7 +11,7 @@ O objetivo é **otimizar os processos**, **reduzir desperdícios** e **garantir 
 ## Integrantes
 
 - Gabriel Oliveira Parísio  
-- Lucas Costa Rego Cabral  
+- Lucas Costa Rêgo Cabral  
 - Marllon Vicente da Silva  
 - Miguel Nunes Cavalcante  
 - Nicholas Matheus Silva de Araújo
